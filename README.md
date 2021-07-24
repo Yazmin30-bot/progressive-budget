@@ -76,7 +76,7 @@ Offline entries should be added to tracker.
 
 ## Links
   * The URL of the deployed application.
-  [https://invulnerable-baguette-18839.herokuapp.com/](https://invulnerable-baguette-18839.herokuapp.com/)
+  [https://cryptic-sands-21653.herokuapp.com/](https://cryptic-sands-21653.herokuapp.com/)
   * The URL of the GitHub repository.                                         [https://github.com/Yazmin30-bot/progressive-budget/](https://github.com/Yazmin30-bot/progressive-budget/)
 
 ## Author 
